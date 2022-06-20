@@ -20,4 +20,4 @@ jobs:
     steps:
     - name: REST API with curl
       run: |
-        curl -X GET "https://source.unsplash.com/random/?happy"
+        curl -X GET "https://source.unsplash.com/random/?cat"
